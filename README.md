@@ -1,0 +1,1 @@
+# finding-the-average-of-10-numbers-using-while-loop-61-100
